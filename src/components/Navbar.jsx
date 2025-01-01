@@ -7,7 +7,7 @@ const Navbar = () => {
       data-aos="fade-down"
       data-aos-duration="1000" 
       >
-        <div className="left nav_items">Saqib Aqeel</div>
+        <div className="left nav_items">Rakesh Chourasia</div>
         <div className="right">
           <a href="#home" className="nav_items">
             Home

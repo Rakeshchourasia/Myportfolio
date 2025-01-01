@@ -1,29 +1,17 @@
 [
   {
     "id": 1,
-    "role": "Frontend developer Intern",
-    "organisation": "Ihub data",
-    "startDate": "Feb, 2024",
-    "endDate": "July 2024",
+    "role": "Data Science Intern",
+    "organisation": "CodeCraft InfoTech",
+    "startDate": "Dec, 2024",
+    "endDate": "Jan 2025",
     "location": "Hyderabad, India",
     "experiences": [
-      "Worked on Virtual lab",
-      "Worked with HTML, CSS, JavaScript"
+      "Worked on Data Analytics",
+      "Worked with Python, MySql, Excel, PowerBI"
     ],
-    "imageSrc": "company/ihubdata.svg"
-  },
-  {
-    "id": 2,
-    "role": "Application Developer Intern",
-    "organisation": "CVIT, IIIT Hyderabad",
-    "startDate": "Nov, 2024",
-    "endDate": "Present",
-    "location": "IIIT Hyderabad, India",
-    "experiences": [
-      "Worked on layout document translation",
-      "Worked with Nodejs, Express, MongoDB and React"
-    ],
-    "imageSrc": "company/cvit-logo.png"
+    "imageSrc": "company/codecraft.jpeg"
   }
+ 
   
 ]

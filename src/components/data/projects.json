@@ -1,9 +1,9 @@
 [
   {
     "key": 1,
-    "title": "React Eccomerce filltering System",
+    "title": "Netflix Data Analysis",
     "imageSrc": "https://cdn.dribbble.com/userupload/9643919/file/original-964e7c7ed9c77cfa90cf565645804613.png?resize=1600x1200&vertical=center",
-    "description": "This is a project made with complete React js.",
+    "description": "This is a project made with complete Python, Excel, SQL and PowerBI.",
     "demo": "https://github.com/Saqibaqeel/EcommerceFilteringSystemReact",
     "source": "https://github.com/Saqibaqeel/EcommerceFilteringSystemReact"
   },

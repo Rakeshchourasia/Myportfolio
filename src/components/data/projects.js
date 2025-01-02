@@ -25,7 +25,7 @@ const projects = {
   },
   4: {
     key: 4,
-    title: "Stock Company Sales Analysis",
+    title: "Pizza Shop Sales Analysis",
     imageSrc: "stock.png",
     description: "This is a project made with SQL, Excel and PowerBI",
     demo: "https://github.com/Rakeshchourasia/Pizzza-Shop-Sales-Analysis",

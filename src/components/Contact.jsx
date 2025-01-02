@@ -16,19 +16,19 @@ const Contact = () => {
           data-aos="zoom-in-up"
           data-aos-duration="1000"
         >
-          <a href="https://www.instagram.com" target="_blank" className="items">
+          <a href="https://www.instagram.com/rakeshchourasia22?utm_source=qr&igsh=MTZnbWhrcDVnZHltag==" target="_blank" className="items">
             <FaInstagram className="icons" />
           </a>
-          <a href="https://www.facebook.com" target="_blank" className="items">
+          <a href="https://www.facebook.com/rakesh.chourasia.52459" target="_blank" className="items">
             <CiFacebook className="icons" />
           </a>
-          <a href="https://www.linkedin.com/in/saqib-aqeel/" target="_blank" className="items">
+          <a href="https://www.linkedin.com/in/rakesh-chourasia-3a4b3825b/" target="_blank" className="items">
             <CiLinkedin className="icons" />
           </a>
           <a href="https://www.google.com" target="_blank" className="items">
             <FaSquareXTwitter className="icons" />
           </a>
-          <a href="https://github.com/Saqibaqeel" target="_blank" className="items">
+          <a href="https://github.com/Rakeshchourasia" target="_blank" className="items">
             <FaGithubSquare className="icons" />
           </a>
           <a

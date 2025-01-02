@@ -2,34 +2,34 @@
   {
     "key": 1,
     "title": "Netflix Data Analysis",
-    "imageSrc": "https://cdn.dribbble.com/userupload/9643919/file/original-964e7c7ed9c77cfa90cf565645804613.png?resize=1600x1200&vertical=center",
+    "imageSrc": "./hero/new.pngg",
     "description": "This is a project made with complete Python, Excel, SQL and PowerBI.",
-    "demo": "https://github.com/Saqibaqeel/EcommerceFilteringSystemReact",
-    "source": "https://github.com/Saqibaqeel/EcommerceFilteringSystemReact"
+    "demo": "https://github.com/Rakeshchourasia/Netflix-Data-Analysis",
+    "source": "https://github.com/Rakeshchourasia/Netflix-Data-Analysis"
   },
   {
     "key": 2,
-    "title": "Exlore More A destination App",
+    "title": "Zomato Sales Data Analysis",
     "imageSrc": "https://images01.nicepagecdn.com/page/17/10/website-template-preview-1710263.jpg",
-    "description": "This is a project made with EJS, Bootstrap, JavaScript,Nodejs ,Express,Mongodb.",
-    "demo": "https://github.com/Saqibaqeel/jsCalculator",
-    "source": "https://github.com/Saqibaqeel/explore-more"
+    "description": "This is a project made with SQL and PowerBI",
+    "demo": "https://github.com/Rakeshchourasia/Zomato_Sales_analysis_using_sql_and_powerBi",
+    "source": "https://github.com/Rakeshchourasia/Zomato_Sales_analysis_using_sql_and_powerBi"
   },
   {
     "key": 3,
-    "title": "Save And Share Recipe",
+    "title": "Super Store Sales Analysis",
     "imageSrc": "https://www.foodbloggerpro.com/wp-content/uploads/2024/02/food-gawker-1024x584.png",
    
-    "description": "This is a project made with Nodejs and express.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made with SQL, Excel and PowerBI ",
+    "demo": "https://github.com/Rakeshchourasia/super-store-sales-analysis-using-sql-and-power-Bi",
+    "source": "https://github.com/Rakeshchourasia/super-store-sales-analysis-using-sql-and-power-Bi"
   },
   {
     "key": 4,
-    "title": "Calculator App",
+    "title": "Pizza Shop Sales Analysis",
     "imageSrc": "https://miro.medium.com/v2/resize:fit:1200/1*_EAyhSvG9NmRRoZjws0tMw.png",
-    "description": "This is a project made with complete JavaScripts.",
-    "demo": "https://github.com/Saqibaqeel/jsCalculator",
-    "source": "https://github.com/Saqibaqeel/jsCalculator"
+    "description": "This is a project made with SQL, Excel and PowerBI",
+    "demo": "https://github.com/Rakeshchourasia/Pizzza-Shop-Sales-Analysis",
+    "source": "https://github.com/Rakeshchourasia/Pizzza-Shop-Sales-Analysis"
   }
 ]
